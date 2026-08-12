@@ -1,6 +1,6 @@
 # Dotfiles
 
-My Dotfiles
+My Dotfiles for my MacOS
 
 ## Thanks to...
 
